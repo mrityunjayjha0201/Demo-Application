@@ -3,9 +3,9 @@
     <item>
         <color android:color="@color/white" />
     </item>
-    <item>
+    <item android:height="200dp" android:width="200dp" android:gravity="center">
         <bitmap
-            android:gravity="center"
+            android:gravity="fill"
             android:src="@drawable/new_business_partners_shaking_hands" />
     </item>
 </layer-list>
