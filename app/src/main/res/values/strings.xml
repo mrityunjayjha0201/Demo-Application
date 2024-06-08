@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Freelancers World</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="experience_the_best_workplace">Experience the best workplace here</string>
+
+    <string name="txt_continue">Continue</string>
+    <string name="txt_continue_with_phone">Mobile number</string>
+    <string name="plc_enter_your_mobile_number">Enter your mobile number…</string>
+    <string name="validate_mobile_number">Please enter a valid mobile number!!</string>
+
+    <string name="txt_verify_mobile_number">Verify OTP</string>
+    <string name="txt_verify_mobile_number_desc">You\'ll receive a 4 digit code to verify next.</string>
+    <string name="txt_code_sent_to">Code is sent to\n%1$s</string>
+    <string name="txt_verify">Verify &amp; Continue</string>
+    <string name="validate_otp">Please enter valid OTP!!</string>
+
+    <string name="txt_register_yourself">Register Yourself </string>
+
+    <string name="tv_first_name">First Name</string>
+    <string name="tv_last_name">Last Name</string>
+    <string name="tv_email">Email (Optional)</string>
+    <string name="tv_skill">Skills</string>
+    <string name="tv_bio">Bio</string>
+
+    <string name="plc_first_name">Your first Name…</string>
+    <string name="plc_last_name">Your last Name…</string>
+    <string name="plc_email">Your email…</string>
+    <string name="plc_skill">Your skills…</string>
+    <string name="plc_bio">Your bio…</string>
+
+    <string name="validate_first_name">Please enter your first name!!</string>
+    <string name="validate_last_name">Please enter your last name!!</string>
+    <string name="validate_skill">Please choose your skills!!</string>
+    <string name="validate_bio">Please enter your bio!!</string>
+
+    <string name="tv_save">Save</string>
+</resources>
